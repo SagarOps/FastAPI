@@ -1,4 +1,4 @@
 # Start FastAPI Application
 ```
-uvivorn books:app --reload
+uvicorn books:app --reload
 ```
